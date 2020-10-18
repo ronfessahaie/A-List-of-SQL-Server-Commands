@@ -1,2 +1,2 @@
 # Full-List-of-SQL-Server-Commands
-This is a collection of T-SQL Commands
+This is a repository of T-SQL Commands.
