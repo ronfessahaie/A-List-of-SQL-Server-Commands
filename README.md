@@ -1,4 +1,4 @@
-# A-List-of-SQL-Server-Commands
+# A-List-of-SQL-Server-Commands-and-Operators
 This is a repository of T-SQL Commands.
 
 ### -DDL Commands
