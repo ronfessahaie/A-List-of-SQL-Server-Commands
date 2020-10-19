@@ -1,8 +1,7 @@
 # A-List-of-SQL-Server-Commands-and-Operators
-This is a repository of T-SQL Commands.
+This is a stduy guide for those learning T-SQL. <WORK IN PROGRESS>
 
 ### -DDL Commands
-
 
 ### -DML Commands
 
