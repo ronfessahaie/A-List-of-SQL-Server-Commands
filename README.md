@@ -1,13 +1,13 @@
 # A-List-of-SQL-Server-Commands-and-Operators
 This is a stduy guide for those learning T-SQL. << WORK IN PROGRESS >>
 
-### DDL Commands
+### DDL Commands (Data Definition Language)
 
-### DML Commands
+### DML Commands (Data Manipulation Language)
 
-### DQL Commands
+### DQL Commands (Data Query Language)
 
-### DCL Commands
+### DCL Commands (Data Control Language)
 
 #### SQL Logical Operators
 
