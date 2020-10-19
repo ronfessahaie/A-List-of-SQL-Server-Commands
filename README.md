@@ -6,6 +6,9 @@ This is a repository of T-SQL Commands.
 
 ### -DML Commands
 
+### -DQL Commands
+
+### -DCL Commands
 
 #### SQL Logical Operators
 
